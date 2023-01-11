@@ -29,7 +29,7 @@
   "deck_ui_side_menu_fly_in.wav": ["robo_eye_start.wav"],
   "deck_ui_side_menu_fly_out.wav": ["robo_eye_end.wav"],
   "deck_ui_slider_down.wav": ["robo_pull.wav"],
-  "deck_ui_slider_up.wav": ["robo_bull.wav"],
+  "deck_ui_slider_up.wav": ["robo_pull.wav"],
   "deck_ui_switch_toggle_off.wav": ["robo_nuku.wav"],
   "deck_ui_switch_toggle_on.wav": ["robo_sasu.wav"],
   "deck_ui_tab_transition_01.wav": ["obj_manual_parapara.wav"],
