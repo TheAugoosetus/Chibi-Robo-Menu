@@ -14,7 +14,7 @@
   "deck_ui_misc_08.wav",
   "deck_ui_tile_scroll.wav",
   "pop_sound.wav",
-]
+],
   "mappings": {
   "deck_ui_achievement_toast.wav": ["system_happy_seal.wav"],
   "deck_ui_bumper_end_02.wav": ["system_new_syaf.wav"],
