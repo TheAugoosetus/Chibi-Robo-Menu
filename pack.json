@@ -2,7 +2,7 @@
   "name": "Chibi-Robo Menu FX",
   "description": "This replaces Steam UI sound effects with those from Chibi-Robo! Plug Into Adventure! Copyright held by Nintendo, skip ltd., and Bandai, 2005-2015.",
   "author": "TheAugoosetus",
-  "version": "v1.2",
+  "version": "v1.3",
   "manifest_version": 2,
   "music": false,
   "ignore": [
